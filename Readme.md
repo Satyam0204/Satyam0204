@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyam0204" alt="satyam0204" /></a> </p>
 
-- 🔭 I’m currently working on [Online-Library-Management-System](https://github.com/Satyam0204/Online-Library-Management-System)
+- 🔭 I’m currently working on [Social-Media-Backend API](https://github.com/Satyam0204/Socially_Backend)
 
 - 🌱 I’m currently learning **Django,React, Django_Rest_Frameworks**
 
