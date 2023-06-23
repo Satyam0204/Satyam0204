@@ -3,6 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam0204&label=Profile%20views&color=0e75b6&style=flat-square" alt="satyam0204" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyam0204" alt="satyam0204" /></a> </p>
+
+- 🔭 I’m currently working on [Socially_App](https://github.com/Satyam0204/Socially_App)
+- 🌱 I’m currently learning **React-Native, DevOps**
+- 👨‍💻 All of my projects are available at [https://github.com/Satyam0204](https://github.com/Satyam0204)
+- 📫 How to reach me **satyampattanaik007@gmail.com**
+
+@@ -17,11 +19,10 @@
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__sa.t.y.am__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satyam-pattanaik-764063228/) 
