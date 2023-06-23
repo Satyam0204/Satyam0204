@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Satyam Pattanaik</h1>
 <h3 align="center">Open Source enthusiast and a passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam0204&label=Profile%20views&color=0e75b6&style=flat-square" alt="satyam0204" /> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Satyam0204&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyam0204" alt="satyam0204" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam0204&label=Profile%20views&color=0e75b6&style=flat-square" alt="satyam0204" /> </p>
 
 - 🔭 I’m currently working on [Socially_App](https://github.com/Satyam0204/Socially_App)
 - 🌱 I’m currently learning **React-Native, DevOps**
@@ -23,8 +24,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Satyam0204&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam0204&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Satyam0204&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
