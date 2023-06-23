@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam0204&label=Profile%20views&color=0e75b6&style=flat-square" alt="satyam0204" /> </p>
 
-- 🔭 I’m currently working on [Socially_App](https://github.com/Satyam0204/Socially_App)
+- 🔭 I’m currently working on [Socially_App](https://github.com/Satyam0204/Socially-App.git)
 - 🌱 I’m currently learning **React-Native, DevOps**
 - 👨‍💻 All of my projects are available at [https://github.com/Satyam0204](https://github.com/Satyam0204)
 - 📫 How to reach me **satyampattanaik007@gmail.com**
